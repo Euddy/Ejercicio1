@@ -13,10 +13,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author USUARIO
- */
+// probemos pues
 @WebServlet(name = "ServletSaludo1", urlPatterns = {"/ServletSaludo1"})//anotaciones en java del java 7 en adelante
 public class ServletSaludo1 extends HttpServlet {
 
